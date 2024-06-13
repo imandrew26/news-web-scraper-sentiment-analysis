@@ -6,13 +6,13 @@ Web scraping project demo that parses through current news articles from NBC and
 
 ### Example Output
 
-Today's date: 2024-06-13
-Articles scraped:  37
+Today's date: 2024-06-13 
+Articles scraped:  37 
 
-Overall sentiment: Mostly Negative
-Sentiment score: -3.3
-Positivity score: 5.46 out of 10
-Negativity score: 6.04 out of 10
+Overall sentiment: Mostly Negative 
+Sentiment score: -3.3 
+Positivity score: 5.46 out of 10 
+Negativity score: 6.04 out of 10 
 
 ### Installation
 Clone the repository and install dependencies from `requirements.txt`.
